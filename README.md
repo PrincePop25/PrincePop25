@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm Prince, studying computer programmer and data analysis in Fanshawe College.
+I'm Prince, studying computer programming and data analysis at Fanshawe College.
 
-Huge fan of Linux, I main drive linux here and there but always tend to come back to windows because of compatibility issue 😅.
+A huge fan of Linux, I mainly use Linux here and there, but I always tend to come back to Windows because of compatibility issues 😅.
 
 I also have a home server where I store images, a personal streaming server, doing redundancy, and exploring with more curiosity that comes.
 
-## Launges
-I am currently learning a lot of launges, but the main languages right now that I am learning is
+## Programming Languages
+I am currently learning a lot of languages, but the main languages right now that I am learning are
 
 - C++
 - C#
@@ -16,6 +16,10 @@ I am currently learning a lot of launges, but the main languages right now that 
 - JavaScript
 - SQL
 
+## Bit More About Me
+- ⌛I love Sandbox Game (Yes, Minecraft is my number ONE fav).
+- 🎤Love singing, I pretty much sang my whole life (Not that good, so don't expect much).
+- 💛Learning Psychology is my favorite thing to do.
 
 <!--
 **PrincePop25/PrincePop25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
