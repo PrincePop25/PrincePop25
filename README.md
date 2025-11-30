@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Prince, a computer programmer and data analysis studying in Fanshawe College.
+I'm Prince, studying computer programmer and data analysis in Fanshawe College.
 
 Huge fan of Linux, I main drive linux here and there but always tend to come back to windows because of compatibility issue 😅.
 
