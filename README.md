@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Prince, a computer programmer and data analysis studying in Fanshawe College.
+
 <!--
 **PrincePop25/PrincePop25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
