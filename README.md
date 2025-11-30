@@ -6,7 +6,7 @@ A huge fan of Linux, I mainly use Linux here and there, but I always tend to com
 
 I also have a home server where I store images, a personal streaming server, doing redundancy, and exploring with more curiosity that comes.
 
-## Programming Languages
+## 📄Programming Languages
 I am currently learning a lot of languages, but the main languages right now that I am learning are
 
 - C++
@@ -16,7 +16,7 @@ I am currently learning a lot of languages, but the main languages right now tha
 - JavaScript
 - SQL
 
-## Bit More About Me
+## 🤯Bit More About Me
 - ⌛I love Sandbox Game (Yes, Minecraft is my number ONE fav).
 - 🎤Love singing, I pretty much sang my whole life (Not that good, so don't expect much).
 - 💛Learning Psychology is my favorite thing to do.
