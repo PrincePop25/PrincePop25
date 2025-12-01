@@ -19,7 +19,7 @@ I am currently learning a lot of languages, but the main languages right now tha
 ## Bit More About Me 🤯
 - ⌛I love Sandbox Game (Yes, Minecraft is my number ONE fav).
 - 🎤Love singing, I pretty much sang my whole life (Not that good, so don't expect much).
-- 💛Learning Psychology is my favorite thing to do.
+- 💛Learning Psychology is my favourite hobby to do.
 
 <!--
 **PrincePop25/PrincePop25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
