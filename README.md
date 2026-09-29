@@ -11,7 +11,7 @@ Like;
 - C#
 
 ## Projects
-Non-game projects will be posted here on GitHub. The game projects will be posted on (itch.io)[https://pr1nce-r.itch.io/]. 
+Non-game projects will be posted here on GitHub. The game projects will be posted on [itch.io](https://pr1nce-r.itch.io/). 
 <!--
 **PrincePop25/PrincePop25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
