@@ -1,25 +1,20 @@
 ## Hi there 👋
 
-I'm Prince, studying computer programming and data analysis at Fanshawe College.
-
-A huge fan of Linux, I mainly use Linux here and there, but I always tend to come back to Windows because of compatibility issues 😅.
-
-I also have a home server where I store images, a personal streaming server, doing redundancy, and exploring with more curiosity that comes.
+Currently studying at Fanshawe College, learned to be more practical and gained hands-on coding experience. 
+Flexible in any task, willing to learn anything. Will make sure to finish tasks as fast as possible.
 
 ## Programming Languages 📄
-I am currently learning a lot of languages, but the main languages right now that I am learning are
-
-- C++
-- C#
-- Java
-- HTML/CSS
-- JavaScript
+Focusing more on data analytics and game development programming languages.
+Like;
 - SQL
+- Python
+- C#
 
-## Bit More About Me 🤯
-- ⌛I love Sandbox Game (Yes, Minecraft is my number ONE fav).
-- 🎤Love singing, I pretty much sang my whole life (Not that good, so don't expect much).
-- 💛Learning Psychology is my favourite hobby to do.
+## Experiences 💻
+### _Data Analytics Specialist | Life*Spin
+- Develop a front-end user interface to make it easier to manipulate data for the user
+- Made a Python script that transfers data from a Form Maker website to Microsoft Access
+- Also made an automated system where, when the user finishes setting the information for the data,  it makes an automated email draft for the user to send to the customers
 
 <!--
 **PrincePop25/PrincePop25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
