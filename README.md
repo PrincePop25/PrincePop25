@@ -11,7 +11,7 @@ Like;
 - C#
 
 ## Experiences 💻
-### _Data Analytics Specialist | Life*Spin
+### _Data Analytics Specialist | Life*Spin_
 - Develop a front-end user interface to make it easier to manipulate data for the user
 - Made a Python script that transfers data from a Form Maker website to Microsoft Access
 - Also made an automated system where, when the user finishes setting the information for the data,  it makes an automated email draft for the user to send to the customers
